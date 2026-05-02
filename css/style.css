@@ -1,0 +1,16 @@
+#border-0{
+    border: 0px transparent solid;
+}
+.search-bar form button{
+    background-color: black !important;
+}
+.search-bar {
+    border-radius: 2%;
+    
+}
+.contact-num p{
+    font-size: 12px;
+}
+.right-nav button img{
+    width: 2rem;
+}
