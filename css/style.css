@@ -14,3 +14,41 @@
 .right-nav button img{
     width: 2rem;
 }
+.bg-1{
+    background-color: #84A7A9;
+    color: white;
+}
+.bg-2{
+    background-color: #CBA787;
+    color: white;
+}
+.bg-3{
+    background-color: #db5847;
+    color: white;
+}
+.text-slider span{
+    font-size: 20px;
+}
+.text-slider h2{
+    font-size: 48px;
+    font-weight:bold ;
+}
+.text-slider p{
+    font-size: 48px;
+}
+.text-slider button{
+    background-color: white;
+}
+:hover.text-slider button {
+    border: 1px solid white !important;
+}
+.carousel-indicators [data-bs-target] {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #ffffff; 
+  margin: 0 5px; 
+}
+.carousel-item{
+    height: 70vh;
+}
